@@ -1,6 +1,9 @@
 # Karim Taha Metwaly 🤖
 **Machine Learning & AI Engineer** | Building Intelligent Solutions
 
+> "Your time is limited, so don't waste it living someone else's life."  
+> *– Steve Jobs*
+
 [![Resume](https://img.shields.io/badge/📄-Download_Resume-green?style=for-the-badge)](https://github.com/KarimTahaM/KarimTahaM/blob/ffa504602c628679550bb558f31f35dee47a44e9/Resume/Karim.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karimtaha0)
 

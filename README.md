@@ -1,6 +1,7 @@
-# Karim Taha Metwaly 🤖
+# Karim Taha Metwaly 
 **Machine Learning & AI Engineer** | Building Intelligent Solutions
 
+## 🧠 Philosophy
 > "Your time is limited, so don't waste it living someone else's life."  
 > *– Steve Jobs*
 

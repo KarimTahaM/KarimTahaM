@@ -4,11 +4,8 @@
 [![Resume](https://img.shields.io/badge/📄-Download_Resume-green?style=for-the-badge)](https://github.com/KarimTahaM/KarimTahaM/blob/ffa504602c628679550bb558f31f35dee47a44e9/Resume/Karim.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karimtaha0)
 
-<!-- GitHub Stats Section -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark)](https://github.com/yourusername)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)](https://github.com/yourusername)
-
 ## 🛠️ Technical Arsenal
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
@@ -16,6 +13,10 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop">
 </p>
 
 ## 🚀 Featured Projects
@@ -46,6 +47,10 @@
     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </p>
+
+<!-- GitHub Stats Section -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark)](https://github.com/KarimTahaM)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)](https://github.com/KarimTahaM)
 
 <!-- Visitor Counter -->
 ![](https://komarev.com/ghpvc/?username=yourusername&color=blue&label=PROFILE+VIEWS)
